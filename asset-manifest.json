@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xspellcheck/static/css/main.f855e6bc.css",
+    "main.js": "/xspellcheck/static/js/main.e675030c.js",
+    "static/js/453.a954be7a.chunk.js": "/xspellcheck/static/js/453.a954be7a.chunk.js",
+    "index.html": "/xspellcheck/index.html",
+    "main.f855e6bc.css.map": "/xspellcheck/static/css/main.f855e6bc.css.map",
+    "main.e675030c.js.map": "/xspellcheck/static/js/main.e675030c.js.map",
+    "453.a954be7a.chunk.js.map": "/xspellcheck/static/js/453.a954be7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e675030c.js"
+  ]
+}
